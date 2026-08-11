@@ -1,3 +1,10 @@
+<img width="1608" height="835" alt="Screenshot 2026-08-11 135047" src="https://github.com/user-attachments/assets/41a2c287-333d-403e-87ae-829136b61134" />
+<img width="1908" height="665" alt="Screenshot 2026-08-11 134958" src="https://github.com/user-attachments/assets/cec70f77-21af-4ef6-a8b5-c3f58a778d75" />
+<img width="1918" height="459" alt="Screenshot 2026-08-11 134907" src="https://github.com/user-attachments/assets/74f5aac7-974c-4caf-acfb-1c0bd27e15cc" />
+
+
+https://github.com/user-attachments/assets/520dda0f-09b0-4043-b9ea-ea1b948ad27b
+
 # 📰 MarketPulse AI — Real-Time Financial News Intelligence Engine
 
 MarketPulse AI is an advanced **Retrieval-Augmented Generation (RAG)** engine designed to fetch, vectorize, index, and analyze live financial and cryptocurrency news in real time. Powered by **FastEmbed**, **ChromaDB**, and **Llama-3.3 (via Groq API)**, it delivers instant market summaries, sentiment breakdowns, and direct source attribution.
