@@ -33,6 +33,14 @@ The application combines **Retrieval-Augmented Generation (RAG), semantic search
 
 ---
 
+## 🎥 Demo
+
+Watch the **MarketPulse AI** walkthrough to see the live news ingestion, RAG-powered market assistant, source retrieval, and analytics dashboard in action.
+
+https://github.com/user-attachments/assets/520dda0f-09b0-4043-b9ea-ea1b948ad27b
+
+---
+
 ## 🧠 How It Works
 
 ```mermaid
